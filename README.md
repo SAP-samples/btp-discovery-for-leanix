@@ -12,7 +12,7 @@ The [Reuse Tool](https://reuse.software/) must be used for your samples project.
 3. The README.md file (this file):
 Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
 
-# [Title]
+# DSAG TechXChange - BTP Discovery for LeanIX HandsOn
 <!-- Please include descriptive title -->
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
@@ -20,7 +20,13 @@ Please edit this file as it is the primary description file for your project. Yo
 -->
 
 ## Description
-<!-- Please include SEO-friendly description -->
+Learn how to discover your BTP landscape in SAP LeanIX.
+With SAP Landscape Discovery, you’ll have automated visibility into your SAP (BTP) landscape by using SAP Cloud ALM. In this session you will learn:
+- How to integrate SAP Cloud ALM with SAP LeanIX
+- Create factsheets based on discovered items from BTP
+- Model your BTP account structure in SAP LeanIX
+- Create and enhance reports in SAP LeanIX, like application roadmap, BTP/technology radar, application ladscape report etc.
+- Visualize BTP factsheets by using the embedded diagaram tools and SAP BTP reference architectures
 
 ## Requirements
 
