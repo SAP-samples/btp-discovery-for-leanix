@@ -22,7 +22,7 @@ Please edit this file as it is the primary description file for your project. Yo
 ## Description
 Learn how to discover your BTP landscape in SAP LeanIX.
 With SAP Landscape Discovery, you’ll have automated visibility into your SAP (BTP) landscape by using SAP Cloud ALM. In this session you will learn:
-- How to integrate SAP Cloud ALM with SAP LeanIX
+- How to SAP Cloud ALM with SAP LeanIX is integrated
 - Create factsheets based on discovered items from BTP
 - Model your BTP account structure in SAP LeanIX
 - Create and enhance reports in SAP LeanIX, like application roadmap, BTP/technology radar, application ladscape report etc.
