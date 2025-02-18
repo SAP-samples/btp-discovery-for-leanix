@@ -32,6 +32,13 @@ With SAP Landscape Discovery, you’ll have automated visibility into your SAP (
 
 - [Gettings started](/Excercises/ex1/README.md)
 - [The inbox from SAP Landscape Discovery](/Excercises/ex1/README.md)
+- [Create / Link a first Factsheet in SAP LeanIX](/Excercises/ex3/README.md)
+- Maintain the created Factsheet
+- Create your BTP Account structure in SAP LeanIX
+- Create or reuese a BTP Solution Diagram in SAP LeanIX
+- Link the BTP Solution Diagram elemnts to the Factsheets
+- Create a Application Roadmap in SAP LeanIX
+- ....
 
 ## Requirements
 
