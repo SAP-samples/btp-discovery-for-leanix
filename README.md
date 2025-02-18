@@ -31,7 +31,7 @@ With SAP Landscape Discovery, you’ll have automated visibility into your SAP (
 ## Excercises
 
 - [Gettings started](/Excercises/ex1/README.md)
-- [The inbox from SAP Landscape Discovery started](/Excercises/ex1/README.md)
+- [The inbox from SAP Landscape Discovery](/Excercises/ex1/README.md)
 
 ## Requirements
 
