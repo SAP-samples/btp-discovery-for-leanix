@@ -1,4 +1,4 @@
-# DSAG TechXchange 2025 - SAP BTP Discovery for SAP LeanIX HandsOn
+# DSAG TechXchange 2025 - SAP BTP Discovery for SAP LeanIX
 <!-- Please include descriptive title -->
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
