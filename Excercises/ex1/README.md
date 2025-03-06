@@ -14,3 +14,10 @@ The following diagram shows the overall architecture of the SAP LeanIX Landscape
 
 ## System access
 
+Please use the credentials we share with you at the beginning of the session to access the following systems:
+
+SAP LeanIX tenant URL: [https://app.leanix.net](https://app.leanix.net)
+
+You should see a screen similiar to this:
+
+![LeanIX start screen](./images/startscreen.jpg)
