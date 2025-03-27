@@ -17,7 +17,7 @@ With SAP Landscape Discovery, you’ll have automated visibility into your SAP (
 ## Excercises
 
 - [Getting started](/Excercises/ex1/README.md)
-- [Overall Architecture](/[Excercises/ex2/README.md](https://github.com/SAP-samples/btp-discovery-for-leanix/blob/main/Excercises/ex1/README.md#architecture))
+- [Overall Architecture](/Excercises/ex1/README.md#architecture)
 - [Link the first fact sheet from the SAP discovery inbox](/Excercises/ex2/README.md)
 - [Maintain the created fact sheet](/Excercises/ex3/README.md)
 - Create your BTP Account structure in SAP LeanIX
