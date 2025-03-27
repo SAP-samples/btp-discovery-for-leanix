@@ -2,7 +2,7 @@
 
 ## Overview
 
-The results of the automated SAP landscape discovery are not sent right into the SAP LeanIX inventory but are first captured in the SAP discovery inbox. From here, you can easily yet selectively add items to the inventory.
+The results of the automated SAP landscape discovery are not sent right into the SAP LeanIX inventory but are first captured in the SAP discovery inbox. From here, you can easily add selected items to the inventory.
 
 ## Excercise
 
