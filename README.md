@@ -14,6 +14,11 @@ With SAP Landscape Discovery, you’ll have automated visibility into your SAP (
 - Create and enhance reports in SAP LeanIX, like application roadmap, BTP/technology radar, application ladscape report etc.
 - Visualize BTP factsheets by using the embedded diagram tools and SAP BTP reference architectures
 
+## Prerequisite
+
+1. Bring your own device
+2. Google Chrome browser or similar
+
 ## Excercises
 
 - [Getting started](/Excercises/ex1/README.md)
