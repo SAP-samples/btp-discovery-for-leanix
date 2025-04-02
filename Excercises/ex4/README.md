@@ -11,6 +11,6 @@ At the same time, the application inventory is the starting point for most gover
 ## Excercise
 
 1. Open the Inventory
-2. You will use the 'Import' action to import 1..5 BTP sub-accounts. For this, download [BTP Account Structure.xlsx](./BTP Account Structure.xlsx) and input the sub-account and global account. Please make sure to adapt the 'Parent' link accordingly.
+2. You will use the 'Import' action to import 1..5 BTP sub-accounts. For this, download [BTP Account Structure.xlsx](BTP%20Account%20Structure.xlsx) and input the sub-account and global account. Please make sure to adapt the 'Parent' link accordingly.
 3. Perform the 'Import'.
 4. Review the results.
