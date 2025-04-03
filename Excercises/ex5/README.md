@@ -9,5 +9,5 @@ SAP LeanIX provides powerful diagram functionality compatible to draw.io respect
 2. Select one of the SAP BTP Reference Architecture dagrams
 3. Click on 'Use template' to turn the temaplate into an editable diagram
 > [!TIP]
-> The "raw import" usiong the draw.io XML file format allows you to easily import diagrams from other sources as well
+> The "raw import" using the draw.io XML file format allows you to easily import diagrams from other sources as well
 4. Save the diagram
