@@ -7,6 +7,11 @@ Having transparency about your BTP account structure in SAP LeanIX allows you to
 * which services are subscribed by an account - and vice-versa: which accounts have subscribed which BTP service
 * which BTP extesions run on top of which BTP sub-accounts, and vice-versa: which BTP sub-accounts are used to run which BTP extensions
 
+### Futher reading
+[SAP BTP Account Model](https://help.sap.com/docs/btp/sap-business-technology-platform/account-model)
+
+[Modelling SAP BTP with SAP LeanIX](https://docs-eam.leanix.net/docs/modeling-sap-btp)
+
 > [!NOTE]
 > In a future version, SAP landscape discovery is planned to support automated discovery of your BTP account structure as well as the account-level service subscriptions. Please find details and track progress in  the [corresponding road map item](https://roadmap.leanix.net/c/537-application-discovery-sap-btp-service-discovery)
 
