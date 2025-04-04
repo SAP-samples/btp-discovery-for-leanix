@@ -5,10 +5,9 @@ With SAP LeanIX Architecture and Road Map Planing you can not only capture your 
 
 ## Excercise
 
-1. Open any of the existing 'Application'.
+1. Create a new Iniative fact sheet, and open it.
 2. Open the 'Transformations' tab, and create a new transformation.
-3. First, create a new 'Iniative' to represent the project needed to _implement_ the change.
 > [!TIP]
 > You can link the iniative to a new or existing project in Cloud ALM to connect the planning to execution - and vice-versa. This is not covered in this hands-on session though.
-4. Then, select one of the templates, e.g., 'Introduce New Application'
-5. Select one of the applications from the inventory, an org unit and a busines capability, and enter a date in early 2026. Save.
+3. First, select one of the templates, e.g., 'Introduce New Application'
+4. Select one of the applications from the inventory, an org unit and a busines capability, and enter a date in early 2026. Save.
