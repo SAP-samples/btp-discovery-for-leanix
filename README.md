@@ -14,6 +14,8 @@ With SAP Landscape Discovery, you’ll have automated visibility into your SAP (
 
 1. Bring your own device
 2. Google Chrome browser or similar
+3. Share your level of knowledge with us and give us feedback via https://app.sli.do/event/rd4gKVV6m45YwMWhoN8FDG
+
 
 ## Excercises
 
