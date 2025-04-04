@@ -27,7 +27,7 @@ With SAP Landscape Discovery, you’ll have automated visibility into your SAP (
 - [Create or reuse a BTP Solution Diagram in SAP LeanIX](/Excercises/ex5/README.md)
 - [Link the BTP Solution Diagram elements to the fact sheets](/Excercises/ex6/README.md)
 - [Create an Application Roadmap in SAP LeanIX](/Excercises/ex7/README.md)
-- [Explore your application roadmap in the roadmap report](/Excercises/ex7/README.md)
+- [Explore your application roadmap in the roadmap report](/Excercises/ex8/README.md)
 - [Import data right from an image](/Excercises/ex9/README.md)
 
 ## How to obtain support
